@@ -1,0 +1,92 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+}
+
+.toplinks {
+    text-align: center;
+    display: flex;
+    padding-top: 25px;
+    margin-bottom: 25px;
+}
+
+.toplinks h2 {
+    display: inline-block;
+    margin: auto auto;
+    padding: 10px;
+    border-radius: 15px;
+    height: 50px;
+    width: 157px;
+    color: white;
+}
+
+.link1 {
+    background: #FF764E;
+}
+
+.link2 { 
+    background: #5ED3EB;
+}
+
+.link3 {
+    background: #FFCD69;
+}
+
+.titlebar {
+    margin: 50px 50px;
+    display: inline-block;
+    font-family: 'Chelsea Market', cursive;
+}
+
+.titlebar img {
+    border-radius: 100%;
+    max-width: 20%;
+    float: left;
+    margin-right: 25px;
+}
+
+.titlebar h3 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.titlebar p {
+    text-align: center;
+}
+
+
+.main {
+    background: #DDB9A3;
+    color: white;
+    margin: 10px 50px;
+    padding: 16px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.icons {
+    display: block;
+    width: 250px;
+    text-align: center;
+    margin: auto auto;
+    margin-bottom: 75px;
+}
+
+.icons p {
+    margin-bottom: 50px;
+}
+
+.icons img {
+    height: 100px;
+}
+
+.bottompic {
+    object-fit: cover;
+    object-position: 0% 0%;
+    height: 20vh;
+    width: 100%;
+}
+
+
+
+
